@@ -1,4 +1,4 @@
-
+**PLEASE STAR REPO MORE STARS = MORE REPOS LIKE THIS & MORE UPDATES** 
 Hcaptcha Image Scraper &amp; Hasher Made by Pr0t0n
 
 **Shoutout to Mouad-Scriptz for helping me get a better understanding of this Hcaptcha**
